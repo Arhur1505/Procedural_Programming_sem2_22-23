@@ -1,43 +1,18 @@
 # Procedural Programming
+This repository contains materials and exercises related to the **Procedural Programming** course, offered in the second semester of Applied Computer Science at AGH University of Krakow.
 
-This repository contains materials and tasks related to the course "Procedural Programming" course offered in the third semester of Applied Computer Science at AGH University of Krakow.
 ## Course Overview
+The course focuses on fundamental principles of procedural programming using **C**, covering:
 
-Throughout this course, students will cover the following topics:
+- Program structure, data types, variables, and memory management.
+- Operators, control flow structures, and function definitions.
+- Arrays, pointers, and string manipulation.
+- Structs, unions, bit fields, and enumerations.
+- Preprocessor directives and macro definitions.
+- Abstract data types, including linked lists, stacks, queues, and trees.
+- Standard C libraries for mathematical and input/output operations.
+- Compilation, linking, and makefile automation.
 
-1. **Expressions and Statements**:
-   - Program structure, data types, constants.
-   - Local and global variables, variable initialization.
-   - Code blocks, variable scope.
-   - Type qualifiers and specifiers, operators.
-   - Conditional, iterative, and jump statements.
+Laboratory exercises were conducted using **C**, emphasizing structured programming, efficient memory usage, and problem-solving techniques.
 
-2. **Functions, Pointers, Arrays, and Strings**:
-   - Function definition, passing parameters, return values.
-   - Functions with variable-length parameter lists, recursive functions.
-   - Declaration and initialization of arrays and pointers.
-   - Address-of and dereference operators, pointer arithmetic.
-   - Character arrays and string operations.
-   - Function pointers, command-line arguments.
-
-3. **Structures, Unions, Bit Fields, and Enumerations**:
-   - Declaring and initializing structures, unions, bit fields, and enumerations.
-   - Accessing structure and union members, passing structures to functions.
-   - Pointers to structures.
-
-4. **Preprocessor Directives**:
-   - Preprocessor directives, macros with parameters, conditional compilation.
-
-5. **Abstract Data Types in C**:
-   - Implementing simple interfaces for abstract data types like linked lists and trees.
-
-6. **Standard Library**:
-   - Mathematical functions, input/output functions, dynamic memory allocation functions.
-   - Using library functions such as `qsort` and `bsearch`, passing functions as pointers.
-
-7. **C Language Standards**:
-   - Understanding C89, C99, and C11 standards.
-   - Practical use of features introduced in C99 and C11.
-
-8. **Software Engineering Elements**:
-   - Compilation, linking, make and makefile, static and dynamic libraries.
+All programming tasks and exercises were designed to build a strong foundation in **C programming** and procedural software development.
